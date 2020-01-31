@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="status_code" label="status_code" language="en" table="var__m_sys_hub_step_ext_input_73700e332fe200105bc6b0c62799b6fd">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>status_code</element>
+            <help/>
+            <hint/>
+            <label>status_code</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_input_73700e332fe200105bc6b0c62799b6fd</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 18:34:03</sys_created_on>
+            <sys_id>73704e332fe200105bc6b0c62799b60a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status_code</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_443744_ipinfo_sp">81c9f53b2fa200105bc6b0c62799b6da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">81c9f53b2fa200105bc6b0c62799b6da</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_input_73700e332fe200105bc6b0c62799b6fd_status_code_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 18:34:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
